@@ -1,3 +1,4 @@
+#if 0
 #include <opencv2/highgui.hpp>
 
 void main()
@@ -7,3 +8,5 @@ void main()
 	cv::waitKey(0);
 
 }
+
+#endif

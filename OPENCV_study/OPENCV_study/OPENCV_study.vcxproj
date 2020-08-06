@@ -153,7 +153,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="background+logo.cpp" />
+    <ClCompile Include="4_image.cpp" />
+    <ClCompile Include="drawing_rectangle.cpp" />
+    <ClCompile Include="image_mask.cpp" />
+    <ClCompile Include="keyboard_action.cpp" />
+    <ClCompile Include="merge.cpp" />
+    <ClCompile Include="mixchannel.cpp" />
+    <ClCompile Include="note.cpp" />
     <ClCompile Include="start.cpp" />
+    <ClCompile Include="drag_event.cpp" />
+    <ClCompile Include="click_event.cpp" />
+    <ClCompile Include="xml1.cpp" />
+    <ClCompile Include="xml2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ina\ina\fft.hpp" />
+    <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ina\ina\histo.hpp" />
+    <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ina\ina\hough.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
