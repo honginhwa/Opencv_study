@@ -1,4 +1,4 @@
-#if 1
+#if 0
 #include <opencv2/opencv.hpp>
 using namespace cv;
 using namespace std;
@@ -23,7 +23,7 @@ int main()
 	meanStdDev(image, mean, stddev);
 	cout << " mean =" << mean << endl;
 	cout << "stddev = " << stddev << endl << endl;
-	1
+	
 	meanStdDev(image, mean, stddev, mask); //이미지의 평균과 표준편차를 구한다 
 	cout << "mean = " << mean << endl;
 	cout << "stddev = " << stddev << endl;

@@ -54,6 +54,21 @@
     <ClCompile Include="image_mask.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="image_bar.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="image_pixel_value.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="histogram.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hist_stretch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hist_equalization.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\Documents\Visual Studio 2015\Projects\ina\ina\fft.hpp">
