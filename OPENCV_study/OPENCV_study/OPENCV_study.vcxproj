@@ -159,7 +159,9 @@
     <ClCompile Include="histogram.cpp" />
     <ClCompile Include="hist_equalization.cpp" />
     <ClCompile Include="hist_stretch.cpp" />
+    <ClCompile Include="Hue_threshold.cpp" />
     <ClCompile Include="image_bar.cpp" />
+    <ClCompile Include="image_hue.cpp" />
     <ClCompile Include="image_mask.cpp" />
     <ClCompile Include="image_pixel_value.cpp" />
     <ClCompile Include="keyboard_action.cpp" />
